@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "null",
     },
-    baseUrl: "NovusAuratis.github.io/quartz_egopedia1",
+    baseUrl: "qwiddity.github.io/quartz_egopedia1",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
