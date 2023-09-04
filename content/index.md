@@ -8,6 +8,8 @@ This is a new-ish installation of Quartz using GitHub pages bringing digital gar
 
 🧠💭 [[SuperEgo]]
 
+## Documentation Pages
+
 😵‍💫🎈[[64 Spheres Visualiser]]
 
 🌐🧬[[Gene Keys Global Calendar]]
