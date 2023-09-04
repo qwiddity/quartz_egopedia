@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "null",
+      provider: "plausible",
     },
     baseUrl: "qwiddity.github.io/quartz_egopedia1",
     ignorePatterns: ["private", "templates", ".obsidian"],
