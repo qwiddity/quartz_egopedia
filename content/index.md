@@ -3,7 +3,7 @@ title: Egopedia  :as
 sticker: emoji//1f9d1-200d-1f680
 ---
 Welcome!
-This is a new-ish installation of Quartz using GitHub pages bringing digital gardens to life from  Obsidian notes.
+This is a new-ish installation of Quartz using GitHub pages bringing digital gardens to life from  Obsidian notes. Hi Jeremy!
 
 💓 [[Id]] - as in the desires of the heart, which can possess a person so completely they behave *idioticly*
 
