@@ -15,7 +15,7 @@ function ShowEllipsis ($message) {
 # Main loop
 while ($true) {
     # Display "Waiting to scan..." message with active ellipsis
-    for ($i=0; $i -lt 10; $i++) {  # 15 minutes = 900 seconds
+    for ($i=0; $i -lt 900; $i++) {  # 15 minutes = 900 seconds
         ShowEllipsis "Waiting to scan"
     }
 
