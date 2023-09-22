@@ -1,5 +1,5 @@
 ---
-sticker: emoji//2764-fe0f-200d-1f525
+sticker: ""
 ---
 ## Introduction
 

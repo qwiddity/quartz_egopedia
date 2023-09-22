@@ -1,6 +1,6 @@
 ---
 title: Egopedia
-sticker: 👩‍🚀
+sticker:
 ---
 Welcome!
 This is a new-ish installation of Quartz using GitHub pages to bring digital gardens to life from  Obsidian notes. 
