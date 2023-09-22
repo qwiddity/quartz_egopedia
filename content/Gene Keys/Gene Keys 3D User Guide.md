@@ -1,3 +1,6 @@
+---
+sticker: emoji//2764-fe0f-200d-1f525
+---
 ## Introduction
 
 Welcome to Gene Keys 3D, an interactive 3D visualization tool for exploring gene keys and their arrangements. This guide will walk you through the functionalities and how to interact with the viewport using your keyboard and mouse.
