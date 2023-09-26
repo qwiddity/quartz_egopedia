@@ -7,7 +7,8 @@ Welcome to Gene Keys 3D, an interactive 3D visualization tool for exploring gene
 
 ## Initial Behavior
 
-Upon loading the page, you'll see a 3D viewport displaying spheres representing gene keys. By default, the spheres are arranged in a "Spiral Disc" formation. The viewport will automatically cycle through different arrangements every 5 seconds.
+Upon loading the page, you'll see a 3D viewport displaying spheres representing gene keys. By default, the spheres will arrange themselves in a "Spiral Disc" formation. The viewport will automatically cycle through different arrangements every 5 seconds, and starts out like this, showing a single sphere for Gene Key 1:
+![[Pasted image 20230926110755.png]]
 
 ## Viewport Interaction
 
@@ -26,7 +27,7 @@ Upon loading the page, you'll see a 3D viewport displaying spheres representing 
 
 Located on the left side of the viewport, the Control Panel offers various options to customize your experience.
 
-## Arrangement Selector: Detailed Overview
+## Arrangement Selector Drop-down: Detailed Overview
 
 ### Spiral Disc
 
@@ -34,19 +35,19 @@ The "Spiral Disc" arrangement is the default setting when you first load the Gen
 
 ### Sheet
 
-The "Sheet" arrangement lays out the spheres in a flat, grid-like formation. This is a straightforward layout that allows for easy observation of all spheres simultaneously.
+The "Sheet" arrangement lays out the spheres in a flat, grid-like formation. This is a straightforward layout that allows for easy observation of all spheres simultaneously. From a biology course years ago I seem to remember something about our nervous system beginning as a strip of cells which then divides into a sheet, which is then folded into tubes. This arrangement is the simplest, most tightly-packed formation of spheres allowable in biology (because cubic arrangements are not possible at this stage of development).
 
 ### Methylated DNA
 
-The "Methylated DNA" arrangement is designed to resemble the structure of DNA when it is methylated. In this state, the DNA is tightly wrapped around histone proteins, which are represented by the spheres in this view. Methylation typically serves as a marker for gene silencing and is crucial for cellular differentiation. This view aims to give a visual representation of how DNA might look in its methylated state.
+The "Methylated DNA" arrangement is designed to resemble the structure of DNA when it is methylated. In this state, the DNA is tightly wrapped around histone proteins, which are represented by the spheres in this view. Methylation typically serves as a marker for gene silencing and is crucial for cellular differentiation. This view aims to give a visual representation of how DNA may appear in its methylated state, by presenting the Gene Keys as the *histone proteins* around which the actual DNA is wrapped to better protect it from radiation damage.
 
 ### Transcribed DNA
 
-The "Transcribed DNA" arrangement aims to represent the DNA during the process of transcription. Transcription is the first step in gene expression, where a specific segment of DNA is used as a template to synthesize a complementary RNA molecule. This RNA molecule then serves as a template for protein synthesis. In this view, the spheres are arranged to mimic the helical structure of DNA being unwound and read by the transcription machinery.
+The "Transcribed DNA" arrangement aims to represent DNA during the process of transcription. Transcription is the first step in gene expression, where a specific segment of DNA is used as a template to synthesize a complementary RNA molecule. This RNA molecule then serves as a template for protein synthesis. In this view, the spheres are arranged to mimic the *histone proteins* letting the helical structure of DNA unwind around them to be read by the transcription machinery (*ribosomes*).
 
 ### Cycling
 
-The "Cycling" option will automatically cycle through all the above arrangements every 5 seconds. This is useful for getting a quick overview of all the different ways the spheres can be arranged.
+The "Cycling" option will automatically cycle through all the above arrangements every 5 seconds. This is useful for getting a quick overview of all the different ways the spheres can be arranged. You can select the visibility of whichever keys you would like to see in the visualisation for any other arrangement, then re-select "Cycling" and the keys you have selected will then cycle through all the arrangements.
 
 ## Group Visibility Toggles: Detailed Overview
 
@@ -80,7 +81,7 @@ The "Cycling" option will automatically cycle through all the above arrangements
 - **Whirlwind**: (49, 55)
 
  
-**Individual Sphere Toggles**: Below the toggles for the Codon Rings there are a set of 8 collapsible menus, containing checkboxes for individual spheres. These allow you to toggle the visibility of each sphere.
+**Individual Sphere Toggles**: Below the toggles for the Codon Rings there are a set of 8 collapsible menus, containing checkboxes for individual spheres. These allow you to toggle the visibility for each sphere.
 
 ## Hover Panel
 
