@@ -1,18 +1,17 @@
 ---
 sticker: emoji//1f469-200d-1f3eb
 ---
-# Gene Keys 3D User Guide 👩‍🏫
+# Gene Keys 3D User Guide 👩‍🏫🧬
 ## Introduction
 
-Welcome to Gene Keys 3D, an interactive web-based 3D visualisation engine for exploring  [The Gene Keys](https;://genekeys.com), and creating personalised contemplation and emotional spectral profiles. This guide will walk you through the functionalities and how to interact with the viewport using your keyboard and mouse.
+Welcome to Gene Keys 3D, an interactive web-based 3D visualisation engine for exploring  [The Gene Keys](https;://genekeys.com), and creating personalised contemplation and emotional spectral profiles. 
+This guide will walk you through the functionalities and how to interact with the viewport using your keyboard and mouse (better touch support for mobile devices is planned)
 Enjoy your journey!
 ### Initial Behaviour
 
 Upon loading the page, you'll see a 3D viewport displaying spheres representing gene keys. By default, the spheres will arrange themselves in a "Spiral Disc" formation. The viewport will automatically cycle through different arrangements every 5 seconds, and starts out like this, showing a single sphere for Gene Key 1:
 ![[Pasted image 20230926110755.png]]
 
-
-Welcome to Gene Keys 3D, a web-based visualiser toolkit for use in personalised contemplation - or just for fun! 🧬
 ## Viewport Interaction
 
 ### Mouse Controls
