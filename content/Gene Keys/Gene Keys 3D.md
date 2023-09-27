@@ -1,11 +1,14 @@
 ---
 sticker: ""
 ---
+# User Guide
 ## Introduction
 
 Welcome to Gene Keys 3D, an interactive 3D visualization tool for exploring gene keys and their arrangements. This guide will walk you through the functionalities and how to interact with the viewport using your keyboard and mouse.
 
-## Initial Behavior
+
+Welcome to Gene Keys 3D, a web-based visualisation engine for [The Gene Keys](https;://genekeys.com). Enjoy your journey!
+### Initial Behavior
 
 Upon loading the page, you'll see a 3D viewport displaying spheres representing gene keys. By default, the spheres will arrange themselves in a "Spiral Disc" formation. The viewport will automatically cycle through different arrangements every 5 seconds, and starts out like this, showing a single sphere for Gene Key 1:
 ![[Pasted image 20230926110755.png]]
@@ -93,4 +96,4 @@ Located at the bottom of the viewport, underneath the Hover Panel the Readout Pa
 
 ---
 
-Feel free to explore and interact with Gene Keys 3D. Enjoy your journey through the world of gene keys!
+To return to the Initial Behavior just reload the page. Have fun exploring and contemplating with Gene Keys 3D!
