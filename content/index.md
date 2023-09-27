@@ -10,7 +10,7 @@ This is a new-ish installation of Quartz using GitHub pages to bring digital gar
 
 ## Documentation Pages
 
-😵‍💫 + :dna: +🎈[[Gene Keys 3D]]
+😵‍💫 + :dna: +🎈[[Gene Keys 3D User Guide]]
 
 🌐 + 🧬 [[Gene Keys Global Calendar]]
 
