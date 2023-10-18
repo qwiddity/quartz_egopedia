@@ -99,6 +99,6 @@ Located at the bottom of the viewport, underneath the Hover Panel the Readout Pa
 
 ---
 
-To return to the Initial Behavior just reload the page. Have fun exploring and contemplating with Gene Keys 3D. 😄 If you'd like to support me in maintaining this and creating other tools like this:
+To return to the Initial Behavior just reload the page. Have fun exploring and contemplating with Gene Keys 3D. 😄 If you'd like to support me in maintaining and creating tools like this, please:
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'J3J0Q8QY8');kofiwidget2.draw();</script> 
