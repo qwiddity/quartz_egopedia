@@ -107,6 +107,6 @@ Need to detail away the last imperfections from your masterpiece? Try this...
 
 To return to the Initial behaviour, just reload the page. 
 
-Because this project is written entirely in JavaScript, it will run on almost anything. I hope you have fun exploring and contemplating with Gene Keys 3D! 😄 This is very much a prototype in development, so if you'd like to support me in creating more, please:
+I hope you have fun exploring and contemplating with Gene Keys 3D! 😄 This is very much a prototype in development, so if you'd like to support me in creating more, please:
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'J3J0Q8QY8');kofiwidget2.draw();</script> 
