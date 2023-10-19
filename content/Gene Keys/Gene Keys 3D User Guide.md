@@ -42,6 +42,8 @@ Located on the left side of the viewport, the Control Panel offers various optio
 
 The "Spiral Disc" arrangement is the default setting when you first load the Gene Keys 3D application. This arrangement is selected because it offers a disorganized, random distribution pattern that can be easily created with 8 groups of 8 spheres, totaling 64. The layout is designed to give a sense of randomness while still maintaining a visually pleasing pattern.
 
+![[Pasted image 20231020035516.png]]
+
 ### Sheet
 
 The "Sheet" arrangement lays out the spheres in a flat, grid-like formation. This is a straightforward layout that allows for easy observation of all spheres simultaneously. From a biology course years ago I seem to remember something about our nervous system beginning as a strip of cells which then divides into a sheet, which is then folded into tubes. This arrangement is the simplest, most tightly-packed formation of spheres allowable in biology (because cubic arrangements are not possible at this stage of development).
@@ -111,6 +113,6 @@ This is an example of a visual contemplation of the human genome, linking all th
 
 To return to the Initial behaviour, just reload the page. If you prefer a white background on a dark image, inverting the fanciest of [Dark Reader](https://darkreader.org/) filters currently produces best results!😄
 
-I hope you have fun exploring and contemplating with Gene Keys 3D, which is very much a prototype in development. If you'd like to support me in creating this and other projects, please:
+I hope you have fun exploring and contemplating with Gene Keys 3D, which is very much a prototype in development. I'm not a professional software anything, so If you'd like to support me in creating this and other projects, please:
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'J3J0Q8QY8');kofiwidget2.draw();</script> 
