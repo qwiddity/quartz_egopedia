@@ -17,7 +17,7 @@ Enjoy your journey!
 
 Upon loading the page, you'll see a 3D viewport displaying spheres representing gene keys. By default, the spheres will arrange themselves in a "Spiral Disc" formation. The viewport will automatically cycle through different arrangements every 5 seconds, and starts out like this, showing a single sphere for Gene Key 1:
 
-![[Pasted image 20230926110755.png]]
+![[Pasted image 20231020014023.png]]
 
 ## Viewport Interaction
 
@@ -103,10 +103,14 @@ Deletes everything on the canvas. Start afresh.
 ### 🧼 Eraser Tool
 Need to detail away the last imperfections from your masterpiece? Try this...
 
+This is an example of a visual contemplation of the human genome, linking all the programming partnerships when the keys are contemplated in a circle. It definitely required use of the eraser tool, and shows how there is only ONE crosslinked pair (7+13, 8+14) in the lower-right quadrant. But if the image is not enough, you can make your own! 
+
+![[Pasted image 20231020013953.png]]
+
 ---
 
-To return to the Initial behaviour, just reload the page. 
+To return to the Initial behaviour, just reload the page. If you prefer a white background on a dark image, inverting the fanciest of [Dark Reader](https://darkreader.org/) filters currently produces best results!😄
 
-I hope you have fun exploring and contemplating with Gene Keys 3D! 😄 This is very much a prototype in development, so if you'd like to support me in creating more, please:
+I hope you have fun exploring and contemplating with Gene Keys 3D, which is very much a prototype in development. If you'd like to support me in creating this and other projects, please:
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'J3J0Q8QY8');kofiwidget2.draw();</script> 
