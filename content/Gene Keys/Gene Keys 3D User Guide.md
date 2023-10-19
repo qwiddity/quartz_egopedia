@@ -7,7 +7,7 @@ sticker: emoji//1f469-200d-1f3eb
 
 ## Introduction
 
-Welcome to Gene Keys 3D, an interactive web-based 3D visualisation engine for exploring *The Gene Keys* (https://genekeys.com). The project aims to assist your contemplation as a performant, smartphone-to-projector capable extension to *Living Library*. It can perform visual computations and create personalised emotional spectral profiles (see [an example](https://geneclock.deflexion.org/AlbertEinstein.html) made with a well-known iconic scientist's Hologenetic Profile)
+Welcome to Gene Keys 3D, an interactive web-based 3D visualisation engine for exploring *The Gene Keys* (https://genekeys.com). The project aims to assist your contemplation as a performant, smartphone-to-projector capable extension to *Living Library*. It can perform visual computations and create personalised emotional spectral profiles (see [an example](https://geneclock.deflexion.org/AlbertEinstein.html) made using an iconic scientist's Hologenetic Profile)
 
 This guide will walk you through the functionalities and how to interact with the viewport using your keyboard and mouse (touch support here, but may be limited on some platforms)
 
@@ -103,9 +103,9 @@ Deletes everything on the canvas. Start afresh.
 ### 🧼 Eraser Tool
 Need to detail away the last imperfections from your masterpiece? Try this...
 
-This is an example of a visual contemplation of the human genome, linking all the programming partnerships when the keys are contemplated in a circle. It definitely required use of the eraser tool, and shows how there is only ONE crosslinked pair (7+13, 8+14) in the lower-right quadrant. But if the image is not enough, you can make your own! 
+This is an example of a visual contemplation of the human genome, linking all the programming partnerships when the keys are contemplated in a circle. It definitely required use of the eraser tool, and shows how there is only ONE crosslinked pair (7+13, 8+14) in the lower-right quadrant. But if the image is not enough, you can use Gene Keys 3D to create maps of your own contemplations, in colours of your choice😊
 
-![[Pasted image 20231020013953.png]]
+![[Pasted image 20231020032321.png]]
 
 ---
 
