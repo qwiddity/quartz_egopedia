@@ -3,17 +3,20 @@ sticker: emoji//1f469-200d-1f3eb
 ---
 # Gene Keys 3D User Guide 👩‍🏫🧬
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z9e7zP73gnQ?si=3o56vnjrjXYhJXKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Introduction
 
-Welcome to Gene Keys 3D, an interactive web-based 3D visualisation engine for exploring  [The Gene Keys](https;://genekeys.com)(https;://genekeys.com), and creating personalised contemplation and emotional spectral profiles. 
-This guide will walk you through the functionalities and how to interact with the viewport using your keyboard and mouse (better touch support for mobile devices is planned)
+Welcome to Gene Keys 3D, an interactive web-based 3D visualisation engine for exploring *The Gene Keys* (https://genekeys.com). The project aims to assist your contemplation as a performant, smartphone-to-projector capable extension to *Living Library*. It can perform visual computations and create personalised emotional spectral profiles (see [an example](https://geneclock.deflexion.org/AlbertEinstein.html) made with a well-known iconic scientist's Hologenetic Profile)
+
+This guide will walk you through the functionalities and how to interact with the viewport using your keyboard and mouse (touch support here, but may be limited on some platforms)
+
 Enjoy your journey!
+
 ### Initial Behaviour
 
 Upon loading the page, you'll see a 3D viewport displaying spheres representing gene keys. By default, the spheres will arrange themselves in a "Spiral Disc" formation. The viewport will automatically cycle through different arrangements every 5 seconds, and starts out like this, showing a single sphere for Gene Key 1:
+
 ![[Pasted image 20230926110755.png]]
 
 ## Viewport Interaction
@@ -29,9 +32,9 @@ Upon loading the page, you'll see a 3D viewport displaying spheres representing 
 - **Stop Cycling**: Any key press will stop the automatic cycling of arrangements.
 - **Keyboard input:** Planned for future experiments.
 
-## Control Panel
+# Key Visibility Control Panel [🧬]
 
-Located on the left side of the viewport, the Control Panel offers various options to customize your experience.
+Located on the left side of the viewport, the Control Panel offers various options to customize your experience. Opened when the page loads, close and open it by clicking on the 🧬button.
 
 ## Arrangement Selector Drop-down: Detailed Overview
 
@@ -51,54 +54,59 @@ The "Methylated DNA" arrangement is designed to resemble the structure of DNA wh
 
 The "Transcribed DNA" arrangement aims to represent DNA during the process of transcription. Transcription is the first step in gene expression, where a specific segment of DNA is used as a template to synthesize a complementary RNA molecule. This RNA molecule then serves as a template for protein synthesis. In this view, the spheres are arranged to mimic the *histone proteins* letting the helical structure of DNA unwind around them to be read by the transcription machinery (*ribosomes*).
 
-### Cycling
+### Cycling Mode
 
-The "Cycling" option will automatically cycle through all the above arrangements every 5 seconds. This is useful for getting a quick overview of all the different ways the spheres can be arranged. You can select the visibility of whichever keys you would like to see in the visualisation for any other arrangement, then re-select "Cycling" and the keys you have selected will then cycle through all the arrangements.
+The "Cycling " option will automatically cycle through all the above arrangements every 5 seconds. This is useful for getting a quick overview of all the different ways the spheres can be arranged. You can select the visibility of whichever keys you would like to see in the visualisation for any other arrangement, then re-select "Cycling" and the keys you have selected will then cycle through all the arrangements.
 
-## Group Visibility Toggles: Detailed Overview
+## Codon Ring Visibility Toggles
 
-**Group Gene Key Toggles**: Below the Arrangement selector there are "Group #" checkboxes numbered 1-8. Toggling these will change visibility for each group of Gene Keys. There are 8 groups of 8 keys, beginning with 1-8 and ending with 56-64.
-
-### List of Codon Rings with Gene Key Numbers
-
+### List of Codon Rings by Name
 **Codon Ring Toggles**: Each Codon Ring has a checkbox next to its name. Checking or unchecking this box will toggle the visibility of all Gene Keys associated with that Codon Ring as listed:
 
-- **Alchemy**: (6, 40, 47, 64)
-- **Destiny**: (34, 43)
-- **Divinity**: (22, 36, 37, 63)
-- **Fire**: (1, 14)
-- **Gaia**: (19, 60, 61)
-- **Humanity**: (10, 17, 21, 25, 38, 51)
-- **Illuminati**: (44, 50)
-- **Illusion**: (28, 32)
-- **Life & Death**: (3, 20, 23, 24, 27, 42)
-- **Light**: (5, 9, 11, 26)
-- **Matter**: (18, 46, 48, 57)
-- **Miracles**: (35)
-- **No Return**: (31, 62)
-- **Origin**: (41)
-- **Prosperity**: (16, 45)
-- **Purification**: (13, 30)
-- **Secrets**: (12)
-- **Seeking**: (15, 39, 52, 53, 54, 58)
-- **Trials**: (12, 33, 56)
-- **Union**: (4, 7, 29, 59)
-- **Water**: (2, 8)
-- **Whirlwind**: (49, 55)
+### Gene Key Numbers & Groups 1-8
+**Individual Sphere Toggles**: Below the toggles for the Codon Rings there are a set of 8 collapsible menus, containing checkboxes for individual spheres. These allow you to toggle the visibility for each sphere. Also, there are "Group #" checkboxes numbered 1-8. Toggling these will change visibility for each group of Gene Keys. There are 8 groups of 8 keys, beginning with 1-8 and ending with 56-64.
 
- 
-**Individual Sphere Toggles**: Below the toggles for the Codon Rings there are a set of 8 collapsible menus, containing checkboxes for individual spheres. These allow you to toggle the visibility for each sphere.
+# Key Information Panel (on hover)
+Hovering over a sphere will display information about that Gene Key in a panel at the top of the viewport. The text is selectable and colour-coded.
 
-## Hover Panel
+## Hover Hexagram Panel
+This displays an image at the *top-right* of the viewport - the hexagram currently being hovered over by the mouse or touch input. You can drag it wherever you wish (touch support limited, also the mouse may drop the panel if dragged over a sphere - it will pick it up again by mousing over if you do not click) and click to set it down.
 
-Hovering over a sphere will display additional information about the Gene Key in a panel on the right side of the viewport.
+# Readout Information Panel (on click)
+Clicking on a sphere will display information about that Gene Key in a panel at the bottom of the viewport. The text is selectable and colour-coded.
 
-## Readout Panel
+## Hover Hexagram Panel
+This displays an image at the *bottom-left* of the viewport - the last hexagram selected by mouse or touch input. You can drag the image wherever you wish (touch support limited). When you select another sphere, a new hexagram will spawn into this location, allowing you create as many as you wish.
 
-Located at the bottom of the viewport, underneath the Hover Panel the Readout Panel provides  information about the currently selected Gene Key.
+# Drawing Tools Panel [🖌]
+
+Pressing the 🖌️ button will open and close the drawing tools panel, which will also pause the animation if there is one engaged. The panel contains some simple tools for drawing on a canvas, like a transparent digital whiteboard above the spheres. 👩‍🏫 This can be used to visually demonstrate key relationships and other hexagram information, or just for taking notes.
+
+### 🅰️Text Tool
+Toggle-selectable tool for typing on the canvas, use the colour-picker to choose your style.
+
+### ✏️Free Line Drawing Tool
+Toggle-selectable tool for free-handing on the canvas, use the colour-picker to select your tone.
+
+### 📏Straight-Line Drawing Tool
+Toggle-selectable tool for drawing straight lines on the canvas, free with some included weird behaviour, use the colour-picker to test your might. To use, select one location (such as a sphere), then select another location as the endpoint for your straight line.
+
+### 📐, ⭕, ◼️ Shape-Drawing Tools
+These do work, but not really as expected, so expect some unexpected behaviour trying to switch away from these particular tools, and you'll meet with expectations.
+
+### Line Thickness / Font Size Scrollbar
+This does what you'd expect from a scrollbar used to make things smaller or bigger. Try it out!
+
+### 🗑️ Delete Tool
+Deletes everything on the canvas. Start afresh.
+
+### 🧼 Eraser Tool
+Need to detail away the last imperfections from your masterpiece? Try this...
 
 ---
 
-To return to the Initial Behavior just reload the page. Have fun exploring and contemplating with Gene Keys 3D. 😄 If you'd like to support me in maintaining and creating tools like this, please:
+To return to the Initial behaviour, just reload the page. 
+
+Because this project is written entirely in JavaScript, it will run on almost anything. I hope you have fun exploring and contemplating with Gene Keys 3D! 😄 This is very much a prototype in development, so if you'd like to support me in creating more, please:
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'J3J0Q8QY8');kofiwidget2.draw();</script> 

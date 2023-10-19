@@ -1,0 +1,1 @@
+The drawing tools provide a variety of functionalities to create and manipulate shapes, lines, and text on a canvas over the keys, like a whiteboard.
